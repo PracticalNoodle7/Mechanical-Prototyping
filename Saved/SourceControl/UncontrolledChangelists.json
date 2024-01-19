@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/AjayC/Documents/GitHub/Mechanical-Prototyping/Content/StudentWork/DamagePlayer/Enemy/BP_Enemy_MoveRandom.uasset",
+				"C:/Users/AjayC/Documents/GitHub/Mechanical-Prototyping/Content/StudentWork/DamagePlayer/Enemy/BP_Enemy_Chaser.uasset",
+				"C:/Users/AjayC/Documents/GitHub/Mechanical-Prototyping/Content/StudentWork/DamagePlayer/Enemy/BP_Enemy_Stationary.uasset",
+				"C:/Users/AjayC/Documents/GitHub/Mechanical-Prototyping/Content/StartMap.umap",
 				"C:/Users/V021380n/Desktop/Mechanics (2)/Mechanics (2)/Mechanics/Mechanics/Content/StudentWork/DamagePlayer/Enemy/BP_Enemy_Parent.uasset",
 				"C:/Users/V021380n/Desktop/Mechanics (2)/Mechanics (2)/Mechanics/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/V021380n/Desktop/Mechanics (2)/Mechanics (2)/Mechanics/Mechanics/Content/StudentWork/DamagePlayer/Enemy/BP_Enemy_MoveRandom.uasset",
